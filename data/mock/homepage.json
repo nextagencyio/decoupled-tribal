@@ -1,0 +1,59 @@
+{
+  "data": {
+    "nodeHomepages": {
+      "__typename": "NodeHomepageConnection",
+      "nodes": [
+        {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to the Clearwater Band of Ojibwe",
+          "path": "/homepage",
+          "heroTitle": "Honoring Our Heritage, Building Our Future",
+          "heroSubtitle": "Sovereign Nation of the Clearwater Band of Ojibwe",
+          "heroDescription": {
+            "processed": "<p>The Clearwater Band of Ojibwe is a sovereign tribal nation dedicated to preserving our cultural heritage, strengthening our community, and building a prosperous future for generations to come.</p>",
+            "summary": "The Clearwater Band of Ojibwe is a sovereign tribal nation dedicated to preserving our cultural heritage, strengthening our community, and building a prosperous future for generations to come."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-members",
+              "title": "",
+              "number": "12,400",
+              "label": "Enrolled Members"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-reservation",
+              "title": "",
+              "number": "86,000",
+              "label": "Acres of Tribal Land"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-programs",
+              "title": "",
+              "number": "45+",
+              "label": "Community Programs"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-employees",
+              "title": "",
+              "number": "850",
+              "label": "Tribal Employees"
+            }
+          ],
+          "featuredItemsTitle": "Tribal Departments",
+          "ctaTitle": "Member Services Portal",
+          "ctaDescription": {
+            "processed": "<p>Access tribal services, submit applications, and stay connected with your tribal government through our online member services portal.</p>",
+            "summary": "Access tribal services, submit applications, and stay connected with your tribal government through our online member services portal."
+          },
+          "ctaPrimary": "Access Member Services",
+          "ctaSecondary": "Contact Tribal Offices"
+        }
+      ]
+    }
+  }
+}

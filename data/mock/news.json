@@ -1,0 +1,138 @@
+{
+  "data": {
+    "nodeNewsItems": {
+      "__typename": "NodeNewsConnection",
+      "nodes": [
+        {
+          "__typename": "NodeNews",
+          "id": "news-sovereignty",
+          "title": "Clearwater Band Celebrates 40th Anniversary of Self-Governance Compact",
+          "path": "/news/sovereignty-day-celebration",
+          "body": {
+            "processed": "<p>The Clearwater Band of Ojibwe marked the 40th anniversary of its Self-Governance Compact with the federal government, celebrating four decades of tribal self-determination and sovereignty.</p><h2>A History of Self-Governance</h2><p>In 1986, the Clearwater Band became one of the first tribes in the nation to enter into a self-governance compact, assuming control of federal programs previously administered by the Bureau of Indian Affairs.</p><h2>Achievements</h2><ul><li>Built and operates a tribally run health clinic serving 8,000 patients annually</li><li>Established an Ojibwe language immersion school with 95% graduation rate</li><li>Created over 500 jobs through tribal enterprises</li><li>Protected and restored 15,000 acres of culturally significant lands</li></ul><p>\"Self-governance has allowed us to design programs that truly serve our people and reflect our values,\" said Chairwoman Whitehawk during the anniversary ceremony.</p>",
+            "summary": "The Clearwater Band of Ojibwe marked the 40th anniversary of its Self-Governance Compact with the federal government, celebrating four decades of tribal self-determination and sovereignty.A History of"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=800&q=80",
+            "alt": "Tribal governance and sovereignty celebration",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "government",
+              "name": "government"
+            }
+          ],
+          "featured": true
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-health-center",
+          "title": "New Health Center Wing Opens, Expanding Mental Health Services",
+          "path": "/news/health-center-expansion",
+          "body": {
+            "processed": "<p>The Clearwater Band officially opened the new behavioral health wing of the tribal health center, doubling the capacity for mental health and substance abuse treatment services.</p><h2>New Facilities</h2><ul><li>10 individual counseling offices</li><li>Group therapy rooms</li><li>Traditional healing space for cultural wellness practices</li><li>Telehealth suite for remote consultations</li><li>Youth wellness center with dedicated counselors</li></ul><p>The $4.5 million project was funded through a combination of Indian Health Service funds, tribal revenue, and a SAMHSA grant. The expansion will allow the tribe to serve an additional 600 patients annually.</p>",
+            "summary": "The Clearwater Band officially opened the new behavioral health wing of the tribal health center, doubling the capacity for mental health and substance abuse treatment services.New Facilities10 indivi"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+            "alt": "Tribal health center expansion",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "health",
+              "name": "health"
+            }
+          ],
+          "featured": true
+        },
+        {
+          "__typename": "NodeNews",
+          "id": "news-language-app",
+          "title": "Tribe Launches Ojibwe Language Learning App",
+          "path": "/news/ojibwe-language-app-launch",
+          "body": {
+            "processed": "<p>The Cultural Preservation Department has launched a free mobile app to help tribal members learn and practice the Ojibwe language from anywhere.</p><h2>App Features</h2><ul><li>Over 3,000 words and phrases with audio by fluent speakers</li><li>Interactive lessons organized by theme (family, nature, ceremonies)</li><li>Daily vocabulary challenges and quizzes</li><li>Stories narrated by tribal elders</li><li>Community discussion board for learners</li></ul><p>The app, called \"Ojibwemowin\" (which means \"speaking Ojibwe\"), is available for free download on iOS and Android devices. It was developed in partnership with the Ojibwe Language Immersion Program and the tribe's IT department.</p>",
+            "summary": "The Cultural Preservation Department has launched a free mobile app to help tribal members learn and practice the Ojibwe language from anywhere.App FeaturesOver 3,000 words and phrases with audio by f"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+            "alt": "Mobile language learning application",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "culture",
+              "name": "culture"
+            }
+          ],
+          "featured": false
+        }
+      ]
+    }
+  }
+}

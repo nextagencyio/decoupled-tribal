@@ -1,0 +1,888 @@
+{
+  "/homepage": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeHomepage",
+          "id": "homepage",
+          "title": "Welcome to the Clearwater Band of Ojibwe",
+          "path": "/homepage",
+          "heroTitle": "Honoring Our Heritage, Building Our Future",
+          "heroSubtitle": "Sovereign Nation of the Clearwater Band of Ojibwe",
+          "heroDescription": {
+            "processed": "<p>The Clearwater Band of Ojibwe is a sovereign tribal nation dedicated to preserving our cultural heritage, strengthening our community, and building a prosperous future for generations to come.</p>",
+            "summary": "The Clearwater Band of Ojibwe is a sovereign tribal nation dedicated to preserving our cultural heritage, strengthening our community, and building a prosperous future for generations to come."
+          },
+          "statsItems": [
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-members",
+              "title": "",
+              "number": "12,400",
+              "label": "Enrolled Members"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-reservation",
+              "title": "",
+              "number": "86,000",
+              "label": "Acres of Tribal Land"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-programs",
+              "title": "",
+              "number": "45+",
+              "label": "Community Programs"
+            },
+            {
+              "__typename": "ParagraphStatItem",
+              "id": "stat-employees",
+              "title": "",
+              "number": "850",
+              "label": "Tribal Employees"
+            }
+          ],
+          "featuredItemsTitle": "Tribal Departments",
+          "ctaTitle": "Member Services Portal",
+          "ctaDescription": {
+            "processed": "<p>Access tribal services, submit applications, and stay connected with your tribal government through our online member services portal.</p>",
+            "summary": "Access tribal services, submit applications, and stay connected with your tribal government through our online member services portal."
+          },
+          "ctaPrimary": "Access Member Services",
+          "ctaSecondary": "Contact Tribal Offices"
+        }
+      }
+    }
+  },
+  "/departments/cultural-preservation": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDepartment",
+          "id": "dept-cultural",
+          "title": "Cultural Preservation Department",
+          "path": "/departments/cultural-preservation",
+          "body": {
+            "processed": "<p>The Cultural Preservation Department is dedicated to protecting, revitalizing, and sharing the rich cultural heritage of the Clearwater Band of Ojibwe.</p><h2>Our Mission</h2><p>To ensure that our language, traditions, and cultural practices are preserved and transmitted to future generations through education, documentation, and community engagement.</p><h2>Programs</h2><ul><li>Ojibwe Language Immersion Program for youth and adults</li><li>Traditional arts and crafts workshops (beadwork, birch bark, quillwork)</li><li>Oral history recording and archives project</li><li>Cultural mentorship pairing elders with youth</li><li>Sacred site protection and monitoring</li></ul>",
+            "summary": "The Cultural Preservation Department is dedicated to protecting, revitalizing, and sharing the rich cultural heritage of the Clearwater Band of Ojibwe.Our MissionTo ensure that our language, tradition"
+          },
+          "phone": "(218) 555-3200",
+          "email": "culture@clearwaterojibwe.gov",
+          "location": "Clearwater Cultural Center, 300 Heritage Way",
+          "hours": "Monday - Friday, 8:00 AM - 5:00 PM",
+          "departmentCategory": [
+            {
+              "id": "cultural-preservation",
+              "name": "cultural-preservation"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+            "alt": "Traditional cultural artifacts and heritage preservation",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/departments/health-wellness": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDepartment",
+          "id": "dept-health",
+          "title": "Health & Wellness Department",
+          "path": "/departments/health-wellness",
+          "body": {
+            "processed": "<p>The Health & Wellness Department provides comprehensive healthcare services to enrolled members of the Clearwater Band of Ojibwe, combining modern medicine with traditional healing practices.</p><h2>Services</h2><ul><li>Primary care and preventive medicine</li><li>Dental and vision care</li><li>Behavioral health and substance abuse treatment</li><li>Traditional healing and wellness programs</li><li>Community health education</li><li>Maternal and child health services</li></ul><h2>Clearwater Health Clinic</h2><p>Our tribally operated health clinic provides comprehensive medical care to enrolled members and their families, with no cost at the point of service for eligible patients.</p>",
+            "summary": "The Health & Wellness Department provides comprehensive healthcare services to enrolled members of the Clearwater Band of Ojibwe, combining modern medicine with traditional healing practices.ServicesP"
+          },
+          "phone": "(218) 555-3210",
+          "email": "health@clearwaterojibwe.gov",
+          "location": "Clearwater Health Center, 150 Wellness Drive",
+          "hours": "Monday - Friday, 7:30 AM - 5:30 PM; Saturday 9:00 AM - 1:00 PM",
+          "departmentCategory": [
+            {
+              "id": "health-wellness",
+              "name": "health-wellness"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+            "alt": "Tribal health and wellness center",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/departments/natural-resources": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeDepartment",
+          "id": "dept-natural-resources",
+          "title": "Natural Resources Department",
+          "path": "/departments/natural-resources",
+          "body": {
+            "processed": "<p>The Natural Resources Department manages and protects the Clearwater Band's land, water, forests, and wildlife resources in accordance with our treaty rights and traditional ecological knowledge.</p><h2>Responsibilities</h2><ul><li>Forest management and timber operations</li><li>Fish and wildlife conservation</li><li>Water quality monitoring and protection</li><li>Wild rice lake management</li><li>Treaty rights enforcement and monitoring</li><li>Environmental review of development proposals</li></ul><h2>Conservation Programs</h2><p>Our department integrates traditional ecological knowledge with modern science to manage natural resources sustainably, ensuring they are available for future generations.</p>",
+            "summary": "The Natural Resources Department manages and protects the Clearwater Band's land, water, forests, and wildlife resources in accordance with our treaty rights and traditional ecological knowledge.Respo"
+          },
+          "phone": "(218) 555-3220",
+          "email": "naturalresources@clearwaterojibwe.gov",
+          "location": "Natural Resources Building, 500 Lakeshore Road",
+          "hours": "Monday - Friday, 7:00 AM - 4:00 PM",
+          "departmentCategory": [
+            {
+              "id": "natural-resources",
+              "name": "natural-resources"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+            "alt": "Tribal forest and natural resource lands",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/council/mary-whitehawk": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeCouncilMember",
+          "id": "council-chair",
+          "title": "Mary Whitehawk",
+          "path": "/council/mary-whitehawk",
+          "body": {
+            "processed": "<p>Chairwoman Mary Whitehawk has served the Clearwater Band for over 20 years in various leadership roles. Elected Tribal Chair in 2022, she brings deep commitment to sovereignty, cultural revitalization, and economic development.</p><h2>Priorities</h2><ul><li>Strengthening tribal sovereignty and self-governance</li><li>Expanding language revitalization programs</li><li>Economic diversification and job creation</li><li>Improving housing and infrastructure on the reservation</li><li>Protecting treaty rights and natural resources</li></ul><h2>Background</h2><p>Chairwoman Whitehawk holds a Juris Doctorate from the University of Minnesota Law School and previously served as the tribe's General Counsel.</p>",
+            "summary": "Chairwoman Mary Whitehawk has served the Clearwater Band for over 20 years in various leadership roles. Elected Tribal Chair in 2022, she brings deep commitment to sovereignty, cultural revitalization"
+          },
+          "position": "Tribal Chairwoman",
+          "district": "At-Large",
+          "termDates": "2022-2026",
+          "email": "mwhitehawk@clearwaterojibwe.gov",
+          "phone": "(218) 555-3100",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Tribal Chairwoman Mary Whitehawk",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/council/james-strongbow": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeCouncilMember",
+          "id": "council-vice-chair",
+          "title": "James Strongbow",
+          "path": "/council/james-strongbow",
+          "body": {
+            "processed": "<p>Vice Chairman James Strongbow represents District 1 and has served on the Tribal Council since 2018. A lifelong resident of the Clearwater Reservation, he is a Navy veteran and former small business owner.</p><h2>Committee Assignments</h2><ul><li>Chair, Economic Development Committee</li><li>Member, Natural Resources Committee</li><li>Member, Veterans Affairs Committee</li></ul><h2>Priorities</h2><ul><li>Supporting tribal veterans and their families</li><li>Small business development and entrepreneurship</li><li>Improving roads and infrastructure in District 1</li></ul>",
+            "summary": "Vice Chairman James Strongbow represents District 1 and has served on the Tribal Council since 2018. A lifelong resident of the Clearwater Reservation, he is a Navy veteran and former small business o"
+          },
+          "position": "Vice Chairman",
+          "district": "District 1",
+          "termDates": "2024-2028",
+          "email": "jstrongbow@clearwaterojibwe.gov",
+          "phone": "(218) 555-3101",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "Vice Chairman James Strongbow",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/council/sarah-morningstar": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeCouncilMember",
+          "id": "council-secretary",
+          "title": "Sarah Morningstar",
+          "path": "/council/sarah-morningstar",
+          "body": {
+            "processed": "<p>Secretary-Treasurer Sarah Morningstar manages the financial operations of the tribal government and serves as the official record keeper for all Council proceedings.</p><h2>Responsibilities</h2><ul><li>Tribal budget development and financial oversight</li><li>Official Council meeting minutes and records</li><li>Member enrollment records management</li><li>Financial reporting and audits</li></ul><h2>Background</h2><p>Ms. Morningstar holds a Master's degree in Public Administration from the University of North Dakota and has over 15 years of experience in tribal government finance.</p>",
+            "summary": "Secretary-Treasurer Sarah Morningstar manages the financial operations of the tribal government and serves as the official record keeper for all Council proceedings.ResponsibilitiesTribal budget devel"
+          },
+          "position": "Secretary-Treasurer",
+          "district": "At-Large",
+          "termDates": "2024-2028",
+          "email": "smorningstar@clearwaterojibwe.gov",
+          "phone": "(218) 555-3102",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Secretary-Treasurer Sarah Morningstar",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/ojibwe-language-program": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeService",
+          "id": "service-language",
+          "title": "Ojibwe Language Immersion Program",
+          "path": "/services/ojibwe-language-program",
+          "body": {
+            "processed": "<p>The Ojibwe Language Immersion Program offers classes and learning opportunities for tribal members of all ages to learn and practice the Ojibwe language.</p><h2>Program Components</h2><ul><li>Preschool immersion classroom (ages 3-5)</li><li>After-school language program for K-12 students</li><li>Adult evening classes (beginner through advanced)</li><li>Elder-youth language mentorship pairs</li><li>Online learning resources and mobile app</li></ul><h2>Why Language Matters</h2><p>Language is the foundation of our cultural identity. By revitalizing Ojibwe, we strengthen our connection to our ancestors, our ceremonies, and our way of life.</p>",
+            "summary": "The Ojibwe Language Immersion Program offers classes and learning opportunities for tribal members of all ages to learn and practice the Ojibwe language.Program ComponentsPreschool immersion classroom"
+          },
+          "department": [
+            {
+              "id": "cultural-preservation",
+              "name": "cultural-preservation"
+            }
+          ],
+          "eligibility": "Enrolled tribal members and their families",
+          "serviceCategory": [
+            {
+              "id": "cultural-programs",
+              "name": "cultural-programs"
+            }
+          ],
+          "contactPhone": "(218) 555-3200",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            "alt": "Language learning classroom",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/housing-assistance": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeService",
+          "id": "service-housing",
+          "title": "Housing Assistance Program",
+          "path": "/services/housing-assistance",
+          "body": {
+            "processed": "<p>The Housing Assistance Program helps enrolled members secure safe, affordable housing through rental assistance, home ownership programs, and housing rehabilitation services.</p><h2>Available Programs</h2><ul><li>Low-income rental assistance (income-based)</li><li>First-time homebuyer down payment assistance</li><li>Home rehabilitation and weatherization grants</li><li>Emergency housing assistance</li><li>Elder home modification for accessibility</li></ul><h2>How to Apply</h2><p>Applications are accepted year-round at the Housing Department office. Applicants must be enrolled members of the Clearwater Band and provide proof of income and household size.</p>",
+            "summary": "The Housing Assistance Program helps enrolled members secure safe, affordable housing through rental assistance, home ownership programs, and housing rehabilitation services.Available ProgramsLow-inco"
+          },
+          "department": [
+            {
+              "id": "housing",
+              "name": "housing"
+            }
+          ],
+          "eligibility": "Enrolled members residing on or near the reservation",
+          "serviceCategory": [
+            {
+              "id": "housing-assistance",
+              "name": "housing-assistance"
+            }
+          ],
+          "contactPhone": "(218) 555-3240",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80",
+            "alt": "Tribal housing community",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/services/elder-services": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeService",
+          "id": "service-elder",
+          "title": "Elder Services Program",
+          "path": "/services/elder-services",
+          "body": {
+            "processed": "<p>The Elder Services Program honors and supports our elders through a range of services designed to promote health, independence, and cultural connection.</p><h2>Services Available</h2><ul><li>Daily meal delivery and congregate dining</li><li>Home health aide and personal care services</li><li>Transportation to medical appointments</li><li>Social activities and cultural programs</li><li>Caregiver support and respite services</li></ul><h2>Elder Center</h2><p>The Clearwater Elder Center is open Monday through Friday and offers meals, activities, and a gathering place for tribal elders. The center hosts weekly traditional storytelling sessions and craft workshops.</p>",
+            "summary": "The Elder Services Program honors and supports our elders through a range of services designed to promote health, independence, and cultural connection.Services AvailableDaily meal delivery and congre"
+          },
+          "department": [
+            {
+              "id": "social-services",
+              "name": "social-services"
+            }
+          ],
+          "eligibility": "Enrolled members age 55 and older",
+          "serviceCategory": [
+            {
+              "id": "elder-services",
+              "name": "elder-services"
+            }
+          ],
+          "contactPhone": "(218) 555-3250",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=800&q=80",
+            "alt": "Elder services and community gathering",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/annual-powwow": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-powwow",
+          "title": "38th Annual Clearwater Band Powwow",
+          "path": "/events/annual-powwow",
+          "body": {
+            "processed": "<p>Join us for the 38th Annual Clearwater Band Powwow, a celebration of Native culture featuring traditional and contemporary dance competitions, drum groups, artisan vendors, and traditional foods.</p><h2>Schedule</h2><ul><li>Friday: Grand Entry at 7:00 PM, social dancing</li><li>Saturday: Grand Entry at 1:00 PM and 7:00 PM, dance competitions</li><li>Sunday: Grand Entry at 1:00 PM, finals and giveaway</li></ul><h2>Dance Categories</h2><p>Competitions include Men's and Women's Traditional, Jingle Dress, Grass Dance, Fancy Shawl, and Fancy Bustle. Categories for all ages from Tiny Tots through Golden Age.</p><p>Vendors interested in setting up at the powwow should contact the Cultural Department by June 1.</p>",
+            "summary": "Join us for the 38th Annual Clearwater Band Powwow, a celebration of Native culture featuring traditional and contemporary dance competitions, drum groups, artisan vendors, and traditional foods.Sched"
+          },
+          "eventDate": {
+            "timestamp": 1784329200
+          },
+          "endDate": {
+            "timestamp": 1784498400
+          },
+          "location": "Clearwater Powwow Grounds, Reservation Road",
+          "eventCategory": [
+            {
+              "id": "cultural-celebration",
+              "name": "cultural-celebration"
+            }
+          ],
+          "openToPublic": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+            "alt": "Powwow celebration with traditional dancers",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/wild-rice-camp": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-wild-rice",
+          "title": "Traditional Wild Rice Camp",
+          "path": "/events/wild-rice-camp",
+          "body": {
+            "processed": "<p>Learn the traditional methods of harvesting wild rice (manoomin) at our annual Wild Rice Camp. This multi-day cultural experience teaches participants how to harvest, parch, dance, and winnow wild rice using methods passed down through generations.</p><h2>What to Expect</h2><ul><li>Canoe-based harvesting on Clearwater Lake</li><li>Parching rice over wood fires using traditional techniques</li><li>Stories and teachings about the significance of manoomin</li><li>Traditional meals featuring wild rice dishes</li></ul><p>All equipment and meals are provided. Participants should bring weather-appropriate clothing and be prepared for outdoor activities.</p>",
+            "summary": "Learn the traditional methods of harvesting wild rice (manoomin) at our annual Wild Rice Camp. This multi-day cultural experience teaches participants how to harvest, parch, dance, and winnow wild ric"
+          },
+          "eventDate": {
+            "timestamp": 1788613200
+          },
+          "endDate": {
+            "timestamp": 1788814800
+          },
+          "location": "Clearwater Lake Ricing Camp",
+          "eventCategory": [
+            {
+              "id": "cultural-celebration",
+              "name": "cultural-celebration"
+            }
+          ],
+          "openToPublic": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+            "alt": "Wild rice harvesting on a lake",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/events/youth-leadership-summit": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeEvent",
+          "id": "event-youth-leadership",
+          "title": "Youth Leadership Summit",
+          "path": "/events/youth-leadership-summit",
+          "body": {
+            "processed": "<p>The annual Youth Leadership Summit brings together young tribal members ages 14-24 for a week of leadership development, cultural learning, and community service.</p><h2>Summit Activities</h2><ul><li>Leadership workshops and team-building exercises</li><li>Cultural teachings from tribal elders</li><li>College and career exploration sessions</li><li>Community service project planning</li><li>Outdoor adventure activities</li></ul><p>Participants will develop leadership skills, strengthen cultural identity, and build connections with peers from across the reservation. Transportation and meals are provided for all registered participants.</p>",
+            "summary": "The annual Youth Leadership Summit brings together young tribal members ages 14-24 for a week of leadership development, cultural learning, and community service.Summit ActivitiesLeadership workshops "
+          },
+          "eventDate": {
+            "timestamp": 1781532000
+          },
+          "endDate": {
+            "timestamp": 1781985600
+          },
+          "location": "Clearwater Community Center, 100 Main Street",
+          "eventCategory": [
+            {
+              "id": "youth-program",
+              "name": "youth-program"
+            }
+          ],
+          "openToPublic": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+            "alt": "Youth leadership and team building activities",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "/news/sovereignty-day-celebration": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-sovereignty",
+          "title": "Clearwater Band Celebrates 40th Anniversary of Self-Governance Compact",
+          "path": "/news/sovereignty-day-celebration",
+          "body": {
+            "processed": "<p>The Clearwater Band of Ojibwe marked the 40th anniversary of its Self-Governance Compact with the federal government, celebrating four decades of tribal self-determination and sovereignty.</p><h2>A History of Self-Governance</h2><p>In 1986, the Clearwater Band became one of the first tribes in the nation to enter into a self-governance compact, assuming control of federal programs previously administered by the Bureau of Indian Affairs.</p><h2>Achievements</h2><ul><li>Built and operates a tribally run health clinic serving 8,000 patients annually</li><li>Established an Ojibwe language immersion school with 95% graduation rate</li><li>Created over 500 jobs through tribal enterprises</li><li>Protected and restored 15,000 acres of culturally significant lands</li></ul><p>\"Self-governance has allowed us to design programs that truly serve our people and reflect our values,\" said Chairwoman Whitehawk during the anniversary ceremony.</p>",
+            "summary": "The Clearwater Band of Ojibwe marked the 40th anniversary of its Self-Governance Compact with the federal government, celebrating four decades of tribal self-determination and sovereignty.A History of"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=800&q=80",
+            "alt": "Tribal governance and sovereignty celebration",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1551836022-deb4988cc6c0?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "government",
+              "name": "government"
+            }
+          ],
+          "featured": true
+        }
+      }
+    }
+  },
+  "/news/health-center-expansion": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-health-center",
+          "title": "New Health Center Wing Opens, Expanding Mental Health Services",
+          "path": "/news/health-center-expansion",
+          "body": {
+            "processed": "<p>The Clearwater Band officially opened the new behavioral health wing of the tribal health center, doubling the capacity for mental health and substance abuse treatment services.</p><h2>New Facilities</h2><ul><li>10 individual counseling offices</li><li>Group therapy rooms</li><li>Traditional healing space for cultural wellness practices</li><li>Telehealth suite for remote consultations</li><li>Youth wellness center with dedicated counselors</li></ul><p>The $4.5 million project was funded through a combination of Indian Health Service funds, tribal revenue, and a SAMHSA grant. The expansion will allow the tribe to serve an additional 600 patients annually.</p>",
+            "summary": "The Clearwater Band officially opened the new behavioral health wing of the tribal health center, doubling the capacity for mental health and substance abuse treatment services.New Facilities10 indivi"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+            "alt": "Tribal health center expansion",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "health",
+              "name": "health"
+            }
+          ],
+          "featured": true
+        }
+      }
+    }
+  },
+  "/news/ojibwe-language-app-launch": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodeNews",
+          "id": "news-language-app",
+          "title": "Tribe Launches Ojibwe Language Learning App",
+          "path": "/news/ojibwe-language-app-launch",
+          "body": {
+            "processed": "<p>The Cultural Preservation Department has launched a free mobile app to help tribal members learn and practice the Ojibwe language from anywhere.</p><h2>App Features</h2><ul><li>Over 3,000 words and phrases with audio by fluent speakers</li><li>Interactive lessons organized by theme (family, nature, ceremonies)</li><li>Daily vocabulary challenges and quizzes</li><li>Stories narrated by tribal elders</li><li>Community discussion board for learners</li></ul><p>The app, called \"Ojibwemowin\" (which means \"speaking Ojibwe\"), is available for free download on iOS and Android devices. It was developed in partnership with the Ojibwe Language Immersion Program and the tribe's IT department.</p>",
+            "summary": "The Cultural Preservation Department has launched a free mobile app to help tribal members learn and practice the Ojibwe language from anywhere.App FeaturesOver 3,000 words and phrases with audio by f"
+          },
+          "image": {
+            "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+            "alt": "Mobile language learning application",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          },
+          "category": [
+            {
+              "id": "culture",
+              "name": "culture"
+            }
+          ],
+          "featured": false
+        }
+      }
+    }
+  },
+  "/about": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-about",
+          "title": "About the Clearwater Band of Ojibwe",
+          "path": "/about",
+          "body": {
+            "processed": "<p>The Clearwater Band of Ojibwe is a federally recognized sovereign tribal nation located in northern Minnesota. Our people have inhabited the Clearwater region for over a thousand years, maintaining a deep spiritual and cultural connection to this land.</p><h2>Our History</h2><p>The Clearwater Band is part of the broader Ojibwe (Anishinaabe) Nation. Our ancestors signed treaties with the United States government in the mid-1800s that established the Clearwater Reservation and preserved our rights to hunt, fish, and gather on ceded territories.</p><h2>Government</h2><p>The tribe is governed by an elected Tribal Council consisting of a Chairperson, Vice Chairperson, Secretary-Treasurer, and four district representatives. Council members serve four-year staggered terms.</p><h2>Our Values</h2><ul><li>Respect for the land, water, and all living beings</li><li>Preservation and revitalization of Ojibwe language and culture</li><li>Self-determination and tribal sovereignty</li><li>Community well-being and mutual support</li><li>Honoring the wisdom of our elders</li></ul>",
+            "summary": "The Clearwater Band of Ojibwe is a federally recognized sovereign tribal nation located in northern Minnesota. Our people have inhabited the Clearwater region for over a thousand years, maintaining a "
+          }
+        }
+      }
+    }
+  },
+  "/contact": {
+    "data": {
+      "route": {
+        "__typename": "RouteInternal",
+        "entity": {
+          "__typename": "NodePage",
+          "id": "page-contact",
+          "title": "Contact the Clearwater Band",
+          "path": "/contact",
+          "body": {
+            "processed": "<p>We welcome your inquiries and are here to assist tribal members and visitors.</p><h2>Tribal Government Offices</h2><ul><li>Phone: (218) 555-3100</li><li>Email: info@clearwaterojibwe.gov</li><li>Address: 100 Main Street, Clearwater, MN 56634</li></ul><h2>Office Hours</h2><p>Tribal offices are open Monday through Friday, 8:00 AM to 4:30 PM. Offices are closed on tribal holidays and federal holidays.</p><h2>Emergency Services</h2><ul><li>Tribal Police: (218) 555-3300</li><li>Emergency: 911</li><li>Health Clinic After Hours: (218) 555-3215</li></ul>",
+            "summary": "We welcome your inquiries and are here to assist tribal members and visitors.Tribal Government OfficesPhone: (218) 555-3100Email: info@clearwaterojibwe.govAddress: 100 Main Street, Clearwater, MN 5663"
+          }
+        }
+      }
+    }
+  }
+}

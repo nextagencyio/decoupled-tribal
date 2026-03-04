@@ -1,0 +1,132 @@
+{
+  "data": {
+    "nodeCouncilMembers": {
+      "__typename": "NodeCouncilMemberConnection",
+      "nodes": [
+        {
+          "__typename": "NodeCouncilMember",
+          "id": "council-chair",
+          "title": "Mary Whitehawk",
+          "path": "/council/mary-whitehawk",
+          "body": {
+            "processed": "<p>Chairwoman Mary Whitehawk has served the Clearwater Band for over 20 years in various leadership roles. Elected Tribal Chair in 2022, she brings deep commitment to sovereignty, cultural revitalization, and economic development.</p><h2>Priorities</h2><ul><li>Strengthening tribal sovereignty and self-governance</li><li>Expanding language revitalization programs</li><li>Economic diversification and job creation</li><li>Improving housing and infrastructure on the reservation</li><li>Protecting treaty rights and natural resources</li></ul><h2>Background</h2><p>Chairwoman Whitehawk holds a Juris Doctorate from the University of Minnesota Law School and previously served as the tribe's General Counsel.</p>",
+            "summary": "Chairwoman Mary Whitehawk has served the Clearwater Band for over 20 years in various leadership roles. Elected Tribal Chair in 2022, she brings deep commitment to sovereignty, cultural revitalization"
+          },
+          "position": "Tribal Chairwoman",
+          "district": "At-Large",
+          "termDates": "2022-2026",
+          "email": "mwhitehawk@clearwaterojibwe.gov",
+          "phone": "(218) 555-3100",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+            "alt": "Tribal Chairwoman Mary Whitehawk",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeCouncilMember",
+          "id": "council-vice-chair",
+          "title": "James Strongbow",
+          "path": "/council/james-strongbow",
+          "body": {
+            "processed": "<p>Vice Chairman James Strongbow represents District 1 and has served on the Tribal Council since 2018. A lifelong resident of the Clearwater Reservation, he is a Navy veteran and former small business owner.</p><h2>Committee Assignments</h2><ul><li>Chair, Economic Development Committee</li><li>Member, Natural Resources Committee</li><li>Member, Veterans Affairs Committee</li></ul><h2>Priorities</h2><ul><li>Supporting tribal veterans and their families</li><li>Small business development and entrepreneurship</li><li>Improving roads and infrastructure in District 1</li></ul>",
+            "summary": "Vice Chairman James Strongbow represents District 1 and has served on the Tribal Council since 2018. A lifelong resident of the Clearwater Reservation, he is a Navy veteran and former small business o"
+          },
+          "position": "Vice Chairman",
+          "district": "District 1",
+          "termDates": "2024-2028",
+          "email": "jstrongbow@clearwaterojibwe.gov",
+          "phone": "(218) 555-3101",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+            "alt": "Vice Chairman James Strongbow",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeCouncilMember",
+          "id": "council-secretary",
+          "title": "Sarah Morningstar",
+          "path": "/council/sarah-morningstar",
+          "body": {
+            "processed": "<p>Secretary-Treasurer Sarah Morningstar manages the financial operations of the tribal government and serves as the official record keeper for all Council proceedings.</p><h2>Responsibilities</h2><ul><li>Tribal budget development and financial oversight</li><li>Official Council meeting minutes and records</li><li>Member enrollment records management</li><li>Financial reporting and audits</li></ul><h2>Background</h2><p>Ms. Morningstar holds a Master's degree in Public Administration from the University of North Dakota and has over 15 years of experience in tribal government finance.</p>",
+            "summary": "Secretary-Treasurer Sarah Morningstar manages the financial operations of the tribal government and serves as the official record keeper for all Council proceedings.ResponsibilitiesTribal budget devel"
+          },
+          "position": "Secretary-Treasurer",
+          "district": "At-Large",
+          "termDates": "2024-2028",
+          "email": "smorningstar@clearwaterojibwe.gov",
+          "phone": "(218) 555-3102",
+          "photo": {
+            "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+            "alt": "Secretary-Treasurer Sarah Morningstar",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1580489944761-15a19d654956?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

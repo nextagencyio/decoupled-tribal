@@ -1,0 +1,159 @@
+{
+  "data": {
+    "nodeEvents": {
+      "__typename": "NodeEventConnection",
+      "nodes": [
+        {
+          "__typename": "NodeEvent",
+          "id": "event-powwow",
+          "title": "38th Annual Clearwater Band Powwow",
+          "path": "/events/annual-powwow",
+          "body": {
+            "processed": "<p>Join us for the 38th Annual Clearwater Band Powwow, a celebration of Native culture featuring traditional and contemporary dance competitions, drum groups, artisan vendors, and traditional foods.</p><h2>Schedule</h2><ul><li>Friday: Grand Entry at 7:00 PM, social dancing</li><li>Saturday: Grand Entry at 1:00 PM and 7:00 PM, dance competitions</li><li>Sunday: Grand Entry at 1:00 PM, finals and giveaway</li></ul><h2>Dance Categories</h2><p>Competitions include Men's and Women's Traditional, Jingle Dress, Grass Dance, Fancy Shawl, and Fancy Bustle. Categories for all ages from Tiny Tots through Golden Age.</p><p>Vendors interested in setting up at the powwow should contact the Cultural Department by June 1.</p>",
+            "summary": "Join us for the 38th Annual Clearwater Band Powwow, a celebration of Native culture featuring traditional and contemporary dance competitions, drum groups, artisan vendors, and traditional foods.Sched"
+          },
+          "eventDate": {
+            "timestamp": 1784329200
+          },
+          "endDate": {
+            "timestamp": 1784498400
+          },
+          "location": "Clearwater Powwow Grounds, Reservation Road",
+          "eventCategory": [
+            {
+              "id": "cultural-celebration",
+              "name": "cultural-celebration"
+            }
+          ],
+          "openToPublic": true,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+            "alt": "Powwow celebration with traditional dancers",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-wild-rice",
+          "title": "Traditional Wild Rice Camp",
+          "path": "/events/wild-rice-camp",
+          "body": {
+            "processed": "<p>Learn the traditional methods of harvesting wild rice (manoomin) at our annual Wild Rice Camp. This multi-day cultural experience teaches participants how to harvest, parch, dance, and winnow wild rice using methods passed down through generations.</p><h2>What to Expect</h2><ul><li>Canoe-based harvesting on Clearwater Lake</li><li>Parching rice over wood fires using traditional techniques</li><li>Stories and teachings about the significance of manoomin</li><li>Traditional meals featuring wild rice dishes</li></ul><p>All equipment and meals are provided. Participants should bring weather-appropriate clothing and be prepared for outdoor activities.</p>",
+            "summary": "Learn the traditional methods of harvesting wild rice (manoomin) at our annual Wild Rice Camp. This multi-day cultural experience teaches participants how to harvest, parch, dance, and winnow wild ric"
+          },
+          "eventDate": {
+            "timestamp": 1788613200
+          },
+          "endDate": {
+            "timestamp": 1788814800
+          },
+          "location": "Clearwater Lake Ricing Camp",
+          "eventCategory": [
+            {
+              "id": "cultural-celebration",
+              "name": "cultural-celebration"
+            }
+          ],
+          "openToPublic": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+            "alt": "Wild rice harvesting on a lake",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeEvent",
+          "id": "event-youth-leadership",
+          "title": "Youth Leadership Summit",
+          "path": "/events/youth-leadership-summit",
+          "body": {
+            "processed": "<p>The annual Youth Leadership Summit brings together young tribal members ages 14-24 for a week of leadership development, cultural learning, and community service.</p><h2>Summit Activities</h2><ul><li>Leadership workshops and team-building exercises</li><li>Cultural teachings from tribal elders</li><li>College and career exploration sessions</li><li>Community service project planning</li><li>Outdoor adventure activities</li></ul><p>Participants will develop leadership skills, strengthen cultural identity, and build connections with peers from across the reservation. Transportation and meals are provided for all registered participants.</p>",
+            "summary": "The annual Youth Leadership Summit brings together young tribal members ages 14-24 for a week of leadership development, cultural learning, and community service.Summit ActivitiesLeadership workshops "
+          },
+          "eventDate": {
+            "timestamp": 1781532000
+          },
+          "endDate": {
+            "timestamp": 1781985600
+          },
+          "location": "Clearwater Community Center, 100 Main Street",
+          "eventCategory": [
+            {
+              "id": "youth-program",
+              "name": "youth-program"
+            }
+          ],
+          "openToPublic": false,
+          "image": {
+            "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+            "alt": "Youth leadership and team building activities",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1529156069898-49953e39b3ac?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

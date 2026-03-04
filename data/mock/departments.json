@@ -1,0 +1,147 @@
+{
+  "data": {
+    "nodeDepartments": {
+      "__typename": "NodeDepartmentConnection",
+      "nodes": [
+        {
+          "__typename": "NodeDepartment",
+          "id": "dept-cultural",
+          "title": "Cultural Preservation Department",
+          "path": "/departments/cultural-preservation",
+          "body": {
+            "processed": "<p>The Cultural Preservation Department is dedicated to protecting, revitalizing, and sharing the rich cultural heritage of the Clearwater Band of Ojibwe.</p><h2>Our Mission</h2><p>To ensure that our language, traditions, and cultural practices are preserved and transmitted to future generations through education, documentation, and community engagement.</p><h2>Programs</h2><ul><li>Ojibwe Language Immersion Program for youth and adults</li><li>Traditional arts and crafts workshops (beadwork, birch bark, quillwork)</li><li>Oral history recording and archives project</li><li>Cultural mentorship pairing elders with youth</li><li>Sacred site protection and monitoring</li></ul>",
+            "summary": "The Cultural Preservation Department is dedicated to protecting, revitalizing, and sharing the rich cultural heritage of the Clearwater Band of Ojibwe.Our MissionTo ensure that our language, tradition"
+          },
+          "phone": "(218) 555-3200",
+          "email": "culture@clearwaterojibwe.gov",
+          "location": "Clearwater Cultural Center, 300 Heritage Way",
+          "hours": "Monday - Friday, 8:00 AM - 5:00 PM",
+          "departmentCategory": [
+            {
+              "id": "cultural-preservation",
+              "name": "cultural-preservation"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+            "alt": "Traditional cultural artifacts and heritage preservation",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeDepartment",
+          "id": "dept-health",
+          "title": "Health & Wellness Department",
+          "path": "/departments/health-wellness",
+          "body": {
+            "processed": "<p>The Health & Wellness Department provides comprehensive healthcare services to enrolled members of the Clearwater Band of Ojibwe, combining modern medicine with traditional healing practices.</p><h2>Services</h2><ul><li>Primary care and preventive medicine</li><li>Dental and vision care</li><li>Behavioral health and substance abuse treatment</li><li>Traditional healing and wellness programs</li><li>Community health education</li><li>Maternal and child health services</li></ul><h2>Clearwater Health Clinic</h2><p>Our tribally operated health clinic provides comprehensive medical care to enrolled members and their families, with no cost at the point of service for eligible patients.</p>",
+            "summary": "The Health & Wellness Department provides comprehensive healthcare services to enrolled members of the Clearwater Band of Ojibwe, combining modern medicine with traditional healing practices.ServicesP"
+          },
+          "phone": "(218) 555-3210",
+          "email": "health@clearwaterojibwe.gov",
+          "location": "Clearwater Health Center, 150 Wellness Drive",
+          "hours": "Monday - Friday, 7:30 AM - 5:30 PM; Saturday 9:00 AM - 1:00 PM",
+          "departmentCategory": [
+            {
+              "id": "health-wellness",
+              "name": "health-wellness"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+            "alt": "Tribal health and wellness center",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeDepartment",
+          "id": "dept-natural-resources",
+          "title": "Natural Resources Department",
+          "path": "/departments/natural-resources",
+          "body": {
+            "processed": "<p>The Natural Resources Department manages and protects the Clearwater Band's land, water, forests, and wildlife resources in accordance with our treaty rights and traditional ecological knowledge.</p><h2>Responsibilities</h2><ul><li>Forest management and timber operations</li><li>Fish and wildlife conservation</li><li>Water quality monitoring and protection</li><li>Wild rice lake management</li><li>Treaty rights enforcement and monitoring</li><li>Environmental review of development proposals</li></ul><h2>Conservation Programs</h2><p>Our department integrates traditional ecological knowledge with modern science to manage natural resources sustainably, ensuring they are available for future generations.</p>",
+            "summary": "The Natural Resources Department manages and protects the Clearwater Band's land, water, forests, and wildlife resources in accordance with our treaty rights and traditional ecological knowledge.Respo"
+          },
+          "phone": "(218) 555-3220",
+          "email": "naturalresources@clearwaterojibwe.gov",
+          "location": "Natural Resources Building, 500 Lakeshore Road",
+          "hours": "Monday - Friday, 7:00 AM - 4:00 PM",
+          "departmentCategory": [
+            {
+              "id": "natural-resources",
+              "name": "natural-resources"
+            }
+          ],
+          "image": {
+            "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+            "alt": "Tribal forest and natural resource lands",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

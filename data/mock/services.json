@@ -1,0 +1,159 @@
+{
+  "data": {
+    "nodeServices": {
+      "__typename": "NodeServiceConnection",
+      "nodes": [
+        {
+          "__typename": "NodeService",
+          "id": "service-language",
+          "title": "Ojibwe Language Immersion Program",
+          "path": "/services/ojibwe-language-program",
+          "body": {
+            "processed": "<p>The Ojibwe Language Immersion Program offers classes and learning opportunities for tribal members of all ages to learn and practice the Ojibwe language.</p><h2>Program Components</h2><ul><li>Preschool immersion classroom (ages 3-5)</li><li>After-school language program for K-12 students</li><li>Adult evening classes (beginner through advanced)</li><li>Elder-youth language mentorship pairs</li><li>Online learning resources and mobile app</li></ul><h2>Why Language Matters</h2><p>Language is the foundation of our cultural identity. By revitalizing Ojibwe, we strengthen our connection to our ancestors, our ceremonies, and our way of life.</p>",
+            "summary": "The Ojibwe Language Immersion Program offers classes and learning opportunities for tribal members of all ages to learn and practice the Ojibwe language.Program ComponentsPreschool immersion classroom"
+          },
+          "department": [
+            {
+              "id": "cultural-preservation",
+              "name": "cultural-preservation"
+            }
+          ],
+          "eligibility": "Enrolled tribal members and their families",
+          "serviceCategory": [
+            {
+              "id": "cultural-programs",
+              "name": "cultural-programs"
+            }
+          ],
+          "contactPhone": "(218) 555-3200",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+            "alt": "Language learning classroom",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeService",
+          "id": "service-housing",
+          "title": "Housing Assistance Program",
+          "path": "/services/housing-assistance",
+          "body": {
+            "processed": "<p>The Housing Assistance Program helps enrolled members secure safe, affordable housing through rental assistance, home ownership programs, and housing rehabilitation services.</p><h2>Available Programs</h2><ul><li>Low-income rental assistance (income-based)</li><li>First-time homebuyer down payment assistance</li><li>Home rehabilitation and weatherization grants</li><li>Emergency housing assistance</li><li>Elder home modification for accessibility</li></ul><h2>How to Apply</h2><p>Applications are accepted year-round at the Housing Department office. Applicants must be enrolled members of the Clearwater Band and provide proof of income and household size.</p>",
+            "summary": "The Housing Assistance Program helps enrolled members secure safe, affordable housing through rental assistance, home ownership programs, and housing rehabilitation services.Available ProgramsLow-inco"
+          },
+          "department": [
+            {
+              "id": "housing",
+              "name": "housing"
+            }
+          ],
+          "eligibility": "Enrolled members residing on or near the reservation",
+          "serviceCategory": [
+            {
+              "id": "housing-assistance",
+              "name": "housing-assistance"
+            }
+          ],
+          "contactPhone": "(218) 555-3240",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80",
+            "alt": "Tribal housing community",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        },
+        {
+          "__typename": "NodeService",
+          "id": "service-elder",
+          "title": "Elder Services Program",
+          "path": "/services/elder-services",
+          "body": {
+            "processed": "<p>The Elder Services Program honors and supports our elders through a range of services designed to promote health, independence, and cultural connection.</p><h2>Services Available</h2><ul><li>Daily meal delivery and congregate dining</li><li>Home health aide and personal care services</li><li>Transportation to medical appointments</li><li>Social activities and cultural programs</li><li>Caregiver support and respite services</li></ul><h2>Elder Center</h2><p>The Clearwater Elder Center is open Monday through Friday and offers meals, activities, and a gathering place for tribal elders. The center hosts weekly traditional storytelling sessions and craft workshops.</p>",
+            "summary": "The Elder Services Program honors and supports our elders through a range of services designed to promote health, independence, and cultural connection.Services AvailableDaily meal delivery and congre"
+          },
+          "department": [
+            {
+              "id": "social-services",
+              "name": "social-services"
+            }
+          ],
+          "eligibility": "Enrolled members age 55 and older",
+          "serviceCategory": [
+            {
+              "id": "elder-services",
+              "name": "elder-services"
+            }
+          ],
+          "contactPhone": "(218) 555-3250",
+          "image": {
+            "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=800&q=80",
+            "alt": "Elder services and community gathering",
+            "width": 800,
+            "height": 533,
+            "variations": [
+              {
+                "name": "LARGE",
+                "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=800&q=80",
+                "width": 800,
+                "height": 533
+              },
+              {
+                "name": "MEDIUM",
+                "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=480&q=80",
+                "width": 480,
+                "height": 320
+              },
+              {
+                "name": "THUMBNAIL",
+                "url": "https://images.unsplash.com/photo-1516307365426-bea591f05011?w=200&q=80",
+                "width": 200,
+                "height": 133
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}
