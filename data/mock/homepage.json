@@ -19,28 +19,28 @@
               "__typename": "ParagraphStatItem",
               "id": "stat-members",
               "title": "",
-              "number": "12,400",
+              "number": "12,400", "value": "12,400",
               "label": "Enrolled Members"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-reservation",
               "title": "",
-              "number": "86,000",
+              "number": "86,000", "value": "86,000",
               "label": "Acres of Tribal Land"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-programs",
               "title": "",
-              "number": "45+",
+              "number": "45+", "value": "45+",
               "label": "Community Programs"
             },
             {
               "__typename": "ParagraphStatItem",
               "id": "stat-employees",
               "title": "",
-              "number": "850",
+              "number": "850", "value": "850",
               "label": "Tribal Employees"
             }
           ],
