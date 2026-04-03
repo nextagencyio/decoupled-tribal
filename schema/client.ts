@@ -34,7 +34,15 @@ export function createTypedClient(client: DecoupledClient): TypedClient {
         query ($path: String!) {
           route(path: $path) {
             ... on RouteInternal {
-              entity { ... on NodePage { __typename id title path body { processed } } }
+              entity {
+                ... on NodePage { __typename id title path body { processed } }
+                ... on NodeDepartment { __typename id title path body { processed summary } phone email location hours departmentCategory { ... on TermInterface { id name } } image { url alt width height } }
+                ... on NodeCouncilMember { __typename id title path body { processed } position district termDates email phone photo { url alt width height } }
+                ... on NodeService { __typename id title path body { processed } department { ... on TermInterface { id name } } eligibility serviceCategory { ... on TermInterface { id name } } contactPhone image { url alt width height } }
+                ... on NodeEvent { __typename id title path body { processed } eventDate { timestamp } endDate { timestamp } location eventCategory { ... on TermInterface { id name } } openToPublic image { url alt width height } }
+                ... on NodeNews { __typename id title path created { timestamp } body { processed } image { url alt width height } category { ... on TermInterface { id name } } featured }
+                ... on NodeHomepage { __typename id title heroTitle heroSubtitle heroDescription { processed } statsItems { ... on ParagraphStatItem { id number label } } featuredItemsTitle ctaTitle ctaDescription { processed } ctaPrimary ctaSecondary }
+              }
             }
           }
         }
